@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Sorting Algorithm Visualizer",
+  "description": "A high-performance visualizer for sorting algorithms with step-by-step playback, real-time comparisons, swaps analytics, audio frequency sonification, and side-by-side race mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
